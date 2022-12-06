@@ -1,4 +1,3 @@
-from itertools import groupby
 import os
 
 cur_dir = os.path.dirname(__file__)
